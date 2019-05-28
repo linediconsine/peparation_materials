@@ -26,6 +26,7 @@ Books 🖖🏼:
 
 ### Google how we hire:
 https://careers.google.com/how-we-hire/
+https://www.facebook.com/careers/facebook-life/how-we-hire
 
 ### videos
 
