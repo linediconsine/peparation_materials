@@ -24,12 +24,8 @@ Books 🖖🏼:
 - [interviewing.io](https://interviewing.io)
 
 
-### Google how we hire:
-https://careers.google.com/how-we-hire/
-https://www.facebook.com/careers/facebook-life/how-we-hire
 
 ### videos
-
 - [Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M) [Erik Demaine] 👍🏻
 - [How does internet work 👍🏻](https://www.youtube.com/watch?v=8KuO4r5CHjM&t=0s)
 
@@ -46,3 +42,23 @@ https://www.youtube.com/watch?v=XKu_SEDAykw&t=0s
 http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
 ##### Part II
 https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
+
+### Programming lenaguages
+
+Ruby:
+[Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
+
+Javascript:
+[Javascript in Y minutes ](https://learnxinyminutes.com/docs/javascript/)
+
+TypeScript:
+[TypeScript in Y minutes ](https://learnxinyminutes.com/docs/typescript/)
+[Typescript official website](http://www.typescriptlang.org/)
+
+
+
+###  How we hire:
+Google:
+https://careers.google.com/how-we-hire/
+Facebook:
+https://www.facebook.com/careers/facebook-life/how-we-hire
