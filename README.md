@@ -45,14 +45,18 @@ https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-k
 
 ### Programming lenaguages
 
-Ruby:
+#### Ruby:
+
 [Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
 
-Javascript:
+#### Javascript:
+
 [Javascript in Y minutes ](https://learnxinyminutes.com/docs/javascript/)
 
-TypeScript:
+#### TypeScript:
+
 [TypeScript in Y minutes ](https://learnxinyminutes.com/docs/typescript/)
+
 [Typescript official website](http://www.typescriptlang.org/)
 
 
