@@ -2,7 +2,7 @@
 
 Books 🖖🏼:
 
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?hvadid=241870593966&hvdev=c&hvlocphy=9004335&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18262234070659357603&hvtargid=kwd-20040243067&keywords=cracking+the+coding+interview&qid=1555691503&s=gateway&sr=8-2) ( You need it and now! )
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?hvadid=241870593966&hvdev=c&hvlocphy=9004335&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=18262234070659357603&hvtargid=kwd-20040243067&keywords=cracking+the+coding+interview&qid=1555691503&s=gateway&sr=8-2) ( You need it now! )
 
 
 ## Website:
