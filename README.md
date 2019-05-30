@@ -26,8 +26,6 @@ Books 🖖🏼:
 - [Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M) [Erik Demaine] 👍🏻
 - [How does internet work 👍🏻](https://www.youtube.com/watch?v=8KuO4r5CHjM&t=0s)
 
-- https://www.youtube.com/watch?v=XKu_SEDAykw&t=0s
-
 HTTP Protocol Basics: 
 - [Part I](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [Part II](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
@@ -51,4 +49,7 @@ HTTP Protocol Basics:
 
 ##  How Big companies hire:
 [Google](https://careers.google.com/how-we-hire/)
+[Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw&t=0s)
+
+
 [Facebook](https://www.facebook.com/careers/facebook-life/how-we-hire)
