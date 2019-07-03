@@ -1,4 +1,4 @@
-# A Delicious 👌🏼 list of free interview prep materials 🐠🖖🏼
+# A Delicious 👌🏼 list of interview prep materials you can ( mostly ) find in the web 🐠🖖🏼
 
 Books 🖖🏼:
 
@@ -41,6 +41,16 @@ HTTP Protocol Basics:
 #### TypeScript:
 - [TypeScript in Y minutes ](https://learnxinyminutes.com/docs/typescript/)
 - [Typescript official website](http://www.typescriptlang.org/)
+
+#### Concepts of modern developing:
+
+- Continuos Delivery 
+- Continous Integration
+- [Super-Powered Continuous Delivery with Git ](https://www.atlassian.com/continuous-delivery/principles/why-git-and-continuous-delivery-are-super-powered)
+
+- [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+
+
 
 ### Muckup interview
 - [Pramp (PRACTICE MAKES PERFECT) ](https://pramp.com) 👍🏻
