@@ -50,7 +50,12 @@ HTTP Protocol Basics:
 - [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Test Driven Development (TDD)](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)
 
-
+#### Design concept
+- KISS : Keep it simple stupid ( clean, simple code.)
+- DRY : Do not repeat yourself 
+- TDA: Tell don’t ask
+- SoC: Separation of Concerns
+- YAGNI: You ain’t gonna need it
 
 ### Muckup interview
 - [Pramp (PRACTICE MAKES PERFECT) ](https://pramp.com) 👍🏻
