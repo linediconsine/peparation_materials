@@ -44,11 +44,11 @@ HTTP Protocol Basics:
 
 #### Concepts of modern developing:
 
-- Continuos Delivery 
-- Continous Integration
+- Continuos Delivery (CD)
+- Continous Integration (CI)
 - [Super-Powered Continuous Delivery with Git ](https://www.atlassian.com/continuous-delivery/principles/why-git-and-continuous-delivery-are-super-powered)
-
 - [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Test Driven Development (TDD)](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)
 
 
 
